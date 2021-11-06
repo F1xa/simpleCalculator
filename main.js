@@ -25,14 +25,4 @@ function calc(a, b, operator) {
 console.log(calc(3, 6, 'sum'));
 
 
-function makeUser(name, age) {
-  return {
-    name,
-    age,
-    height: 30,
-    
-  };
-}
-
-
 
